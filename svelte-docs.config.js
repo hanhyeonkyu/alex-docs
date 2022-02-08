@@ -3,7 +3,7 @@ module.exports = {
   basepath: "/alex-docs/",
 
   // theme
-  theme: "default",
+  theme: "./src/theme/dark",
 
   title: {
     // constant part of page title
